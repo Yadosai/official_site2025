@@ -1,4 +1,5 @@
 # official_site2025
+- init
 
 ```sh
 git clone git@github.com:Yadosai/official_site2024new.git
