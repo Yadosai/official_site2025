@@ -4,7 +4,7 @@
         <div class="text-overlay">
             <p class="eyeCatchTitle">やどかり祭</p>
             <p class="eyeCatchSubtitle">-最高到達点-</p>
-            <p class="eyeCatchDate">5/31,6/1</p>
+            <p class="eyeCatchDate">5/30,5/31</p>
         </div>
     </div>
     <div id="updateInfo">
