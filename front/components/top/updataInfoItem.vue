@@ -49,20 +49,20 @@ export default {
 }
 
 .updateDate {
-  font-family: map-get($font-styles, family);
-  font-style: map-get($font-styles, style);
-  font-weight: map-get($font-styles, weight);
-  line-height: map-get($font-styles, line-height);
+  font-family: map.get($font-styles, family);
+  font-style: map.get($font-styles, style);
+  font-weight: map.get($font-styles, weight);
+  line-height: map.get($font-styles, line-height);
   color: $secondary-color;
   font-size: 10px;
   margin: 0px;
 }
 
 .updateText {
-  font-family: map-get($font-styles, family);
-  font-style: map-get($font-styles, style);
-  font-weight: map-get($font-styles, weight);
-  line-height: map-get($font-styles, line-height);
+  font-family: map.get($font-styles, family);
+  font-style: map.get($font-styles, style);
+  font-weight: map.get($font-styles, weight);
+  line-height: map.get($font-styles, line-height);
   color: $secondary-color;
   font-size: 14px;
   margin: 0px;

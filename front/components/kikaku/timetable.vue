@@ -144,10 +144,10 @@ export default {
 }
 
 .locationItem p {
-    font-family: map-get($font-styles, family);
-    font-style: map-get($font-styles, style);
-    font-weight: map-get($font-styles, weight);
-    line-height: map-get($font-styles, line-height);
+    font-family: map.get($font-styles, family);
+    font-style: map.get($font-styles, style);
+    font-weight: map.get($font-styles, weight);
+    line-height: map.get($font-styles, line-height);
     height: 20px;
     flex-shrink: 0;
     color: $secondary-color;
@@ -182,10 +182,10 @@ export default {
 }
 
 .timeTable_1 .sidebar p {
-    font-family: map-get($font-styles, family);
-    font-style: map-get($font-styles, style);
-    font-weight: map-get($font-styles, weight);
-    line-height: map-get($font-styles, line-height);
+    font-family: map.get($font-styles, family);
+    font-style: map.get($font-styles, style);
+    font-weight: map.get($font-styles, weight);
+    line-height: map.get($font-styles, line-height);
     color: $secondary-color;
     text-align: center;
     font-size: 14px;
@@ -270,10 +270,10 @@ export default {
 
 .kikakuItem .stageKikakuLink .stageInfoWrapper p {
     margin: 0;
-    font-family: map-get($font-styles, family);
-    font-style: map-get($font-styles, style);
-    font-weight: map-get($font-styles, weight);
-    line-height: map-get($font-styles, line-height);
+    font-family: map.get($font-styles, family);
+    font-style: map.get($font-styles, style);
+    font-weight: map.get($font-styles, weight);
+    line-height: map.get($font-styles, line-height);
     font-size: 9px;
 }
 
