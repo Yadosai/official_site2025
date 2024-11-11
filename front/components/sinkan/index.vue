@@ -30,10 +30,10 @@
 
 .InjectionItem p,
 #SinkanEyeCatch p {
-    font-family: map.get($font-styles, family);
-    font-style: map.get($font-styles, style);
-    font-weight: map.get($font-styles, weight);
-    line-height: map.get($font-styles, line-height);
+    font-family: map-get($font-styles, family);
+    font-style: map-get($font-styles, style);
+    font-weight: map-get($font-styles, weight);
+    line-height: map-get($font-styles, line-height);
     color: #000;
     font-size: 24px;
     margin: 0px;

@@ -77,10 +77,10 @@ const route = useRoute();
 }
 
 .snsItem .snsLink p {
-    font-family: map.get($font-styles, family);
-    font-style: map.get($font-styles, style);
-    font-weight: map.get($font-styles, weight);
-    line-height: map.get($font-styles, line-height);
+    font-family: map-get($font-styles, family);
+    font-style: map-get($font-styles, style);
+    font-weight: map-get($font-styles, weight);
+    line-height: map-get($font-styles, line-height);
     color: $tertiary-color;
     text-align: center;
     overflow-wrap: break-word;
@@ -88,10 +88,10 @@ const route = useRoute();
 }
 
 .footerText {
-    font-family: map.get($font-styles, family);
-    font-style: map.get($font-styles, style);
-    font-weight: map.get($font-styles, weight);
-    line-height: map.get($font-styles, line-height);
+    font-family: map-get($font-styles, family);
+    font-style: map-get($font-styles, style);
+    font-weight: map-get($font-styles, weight);
+    line-height: map-get($font-styles, line-height);
     align-self: stretch;
     color: $tertiary-color;
     text-align: center;

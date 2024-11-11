@@ -99,10 +99,10 @@ p {
 .performerName {
     color: $secondary-color;
     text-align: center;
-    font-family: map.get($font-styles, family);
-    font-style: map.get($font-styles, style);
-    font-weight: map.get($font-styles, weight);
-    line-height: map.get($font-styles, line-height);
+    font-family: map-get($font-styles, family);
+    font-style: map-get($font-styles, style);
+    font-weight: map-get($font-styles, weight);
+    line-height: map-get($font-styles, line-height);
     white-space: pre-line;
 }
 
@@ -126,10 +126,10 @@ p {
     width: 264px;
     height: 27px;
     font-size: 15px;
-    font-family: map.get($font-styles, family);
-    font-style: map.get($font-styles, style);
-    font-weight: map.get($font-styles, weight);
-    line-height: map.get($font-styles, line-height);
+    font-family: map-get($font-styles, family);
+    font-style: map-get($font-styles, style);
+    font-weight: map-get($font-styles, weight);
+    line-height: map-get($font-styles, line-height);
 }
 
 .SNS {
@@ -150,10 +150,10 @@ p {
 .SNSID {
     text-align: center;
     font-size: 15px;
-    font-family: map.get($font-styles, family);
-    font-style: map.get($font-styles, style);
-    font-weight: map.get($font-styles, weight);
-    line-height: map.get($font-styles, line-height);
+    font-family: map-get($font-styles, family);
+    font-style: map-get($font-styles, style);
+    font-weight: map-get($font-styles, weight);
+    line-height: map-get($font-styles, line-height);
 }
 
 .icon {

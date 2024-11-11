@@ -120,10 +120,10 @@ export default {
 }
 
 .thanksEyeCatchTitle {
-    font-style: map.get($font-styles, style);
-    font-weight: map.get($font-styles, weight);
-    line-height: map.get($font-styles, line-height);
-    font-family: map.get($font-styles, family);
+    font-style: map-get($font-styles, style);
+    font-weight: map-get($font-styles, weight);
+    line-height: map-get($font-styles, line-height);
+    font-family: map-get($font-styles, family);
     font-size: 24px;
     margin: 0;
 }
@@ -138,10 +138,10 @@ export default {
     text-align: center;
 }
 .thanksabout p {
-    font-style: map.get($font-styles, style);
-    font-weight: map.get($font-styles, weight);
-    line-height: map.get($font-styles, line-height);
-    font-family: map.get($font-styles, family);
+    font-style: map-get($font-styles, style);
+    font-weight: map-get($font-styles, weight);
+    line-height: map-get($font-styles, line-height);
+    font-family: map-get($font-styles, family);
     font-size: 14px;
     line-height: 1.5;
     margin: 0;
@@ -172,10 +172,10 @@ export default {
     margin: 0;
 }
 .miniCon span {
-    font-style: map.get($font-styles, style);
-    font-weight: map.get($font-styles, weight);
-    line-height: map.get($font-styles, line-height);
-    font-family: map.get($font-styles, family);
+    font-style: map-get($font-styles, style);
+    font-weight: map-get($font-styles, weight);
+    line-height: map-get($font-styles, line-height);
+    font-family: map-get($font-styles, family);
     font-size: 14px;
     width: fit-content;
     margin: 0;

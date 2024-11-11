@@ -64,10 +64,10 @@ export default {
 
 .otherHeader p {
     color: $secondary-color;
-    font-family: map.get($font-styles, family);
-    font-style: map.get($font-styles, style);
-    font-weight: map.get($font-styles, weight);
-    line-height: map.get($font-styles, line-height);
+    font-family: map-get($font-styles, family);
+    font-style: map-get($font-styles, style);
+    font-weight: map-get($font-styles, weight);
+    line-height: map-get($font-styles, line-height);
     text-align: center;
     margin: 0;
 }
@@ -95,19 +95,19 @@ export default {
 }
 
 .contentText span {
-    font-family: map.get($font-styles, family);
-    font-style: map.get($font-styles, style);
-    font-weight: map.get($font-styles, weight);
-    line-height: map.get($font-styles, line-height);
+    font-family: map-get($font-styles, family);
+    font-style: map-get($font-styles, style);
+    font-weight: map-get($font-styles, weight);
+    line-height: map-get($font-styles, line-height);
     font-size: 14px;
 }
 
 .contentText a {
     color: $tertiary-color;
-    font-family: map.get($font-styles, family);
-    font-style: map.get($font-styles, style);
-    font-weight: map.get($font-styles, weight);
-    line-height: map.get($font-styles, line-height);
+    font-family: map-get($font-styles, family);
+    font-style: map-get($font-styles, style);
+    font-weight: map-get($font-styles, weight);
+    line-height: map-get($font-styles, line-height);
     cursor: pointer;
     color: inherit;
     text-decoration: none; 
