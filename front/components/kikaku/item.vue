@@ -123,10 +123,10 @@ section {
 }
 
 .title {
-    font-family: map.get($font-styles, family);
-    font-style: map.get($font-styles, style);
-    font-weight: map.get($font-styles, weight);
-    line-height: map.get($font-styles, line-height);
+    font-family: map-get($font-styles, family);
+    font-style: map-get($font-styles, style);
+    font-weight: map-get($font-styles, weight);
+    line-height: map-get($font-styles, line-height);
     flex-shrink: 0;
     color: $secondary-color;
     font-size: 20px;
@@ -174,10 +174,10 @@ section {
 }
 
 .group {
-    font-family: map.get($font-styles, family);
-    font-style: map.get($font-styles, style);
-    font-weight: map.get($font-styles, weight);
-    line-height: map.get($font-styles, line-height);
+    font-family: map-get($font-styles, family);
+    font-style: map-get($font-styles, style);
+    font-weight: map-get($font-styles, weight);
+    line-height: map-get($font-styles, line-height);
     margin: 0;
     width: 146.707px;
     color: $tertiary-color;
@@ -209,10 +209,10 @@ section {
 }
 
 .placeS {
-    font-family: map.get($font-styles, family);
-    font-style: map.get($font-styles, style);
-    font-weight: map.get($font-styles, weight);
-    line-height: map.get($font-styles, line-height);
+    font-family: map-get($font-styles, family);
+    font-style: map-get($font-styles, style);
+    font-weight: map-get($font-styles, weight);
+    line-height: map-get($font-styles, line-height);
     margin: 0;
     color: $tertiary-color;
     font-size: 14px;
@@ -240,20 +240,20 @@ section {
 }
 
 .dateS {
-    font-family: map.get($font-styles, family);
-    font-style: map.get($font-styles, style);
-    font-weight: map.get($font-styles, weight);
-    line-height: map.get($font-styles, line-height);
+    font-family: map-get($font-styles, family);
+    font-style: map-get($font-styles, style);
+    font-weight: map-get($font-styles, weight);
+    line-height: map-get($font-styles, line-height);
     margin: auto 0 0 0;
     color: $tertiary-color;
     font-size: 14px;
 }
 
 .description.isActive {
-    font-family: map.get($font-styles, family);
-    font-style: map.get($font-styles, style);
-    font-weight: map.get($font-styles, weight);
-    line-height: map.get($font-styles, line-height);
+    font-family: map-get($font-styles, family);
+    font-style: map-get($font-styles, style);
+    font-weight: map-get($font-styles, weight);
+    line-height: map-get($font-styles, line-height);
     width: 100%;
     color: $tertiary-color;
     font-size: 20px;
@@ -291,10 +291,10 @@ section {
 }
 
 .textOpen {
-    font-family: map.get($font-styles, family);
-    font-style: map.get($font-styles, style);
-    font-weight: map.get($font-styles, weight);
-    line-height: map.get($font-styles, line-height);
+    font-family: map-get($font-styles, family);
+    font-style: map-get($font-styles, style);
+    font-weight: map-get($font-styles, weight);
+    line-height: map-get($font-styles, line-height);
     margin: 0;
     width: 30px;
     height: 18px;
@@ -304,10 +304,10 @@ section {
 }
 
 .textClose {
-    font-family: map.get($font-styles, family);
-    font-style: map.get($font-styles, style);
-    font-weight: map.get($font-styles, weight);
-    line-height: map.get($font-styles, line-height);
+    font-family: map-get($font-styles, family);
+    font-style: map-get($font-styles, style);
+    font-weight: map-get($font-styles, weight);
+    line-height: map-get($font-styles, line-height);
     margin: 0;
     width: 45px;
     height: 18px;

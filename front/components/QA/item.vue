@@ -48,10 +48,10 @@ export default {
     margin-bottom: 10px;
 }
 .q-link {
-    font-style: map.get($font-styles, style);
-    font-weight: map.get($font-styles, weight);
-    line-height: map.get($font-styles, line-height);
-    font-family: map.get($font-styles, family);
+    font-style: map-get($font-styles, style);
+    font-weight: map-get($font-styles, weight);
+    line-height: map-get($font-styles, line-height);
+    font-family: map-get($font-styles, family);
     color: $tertiary-color;
     text-decoration: underline;
 }
@@ -82,10 +82,10 @@ export default {
 }
 
 .q {
-    font-style: map.get($font-styles, style);
-    font-weight: map.get($font-styles, weight);
-    line-height: map.get($font-styles, line-height);
-    font-family: map.get($font-styles, family);
+    font-style: map-get($font-styles, style);
+    font-weight: map-get($font-styles, weight);
+    line-height: map-get($font-styles, line-height);
+    font-family: map-get($font-styles, family);
     position: absolute;
     top: 0;
     left: 15px;
@@ -96,10 +96,10 @@ export default {
 }
 
 .a {
-    font-style: map.get($font-styles, style);
-    font-weight: map.get($font-styles, weight);
-    line-height: map.get($font-styles, line-height);
-    font-family: map.get($font-styles, family);
+    font-style: map-get($font-styles, style);
+    font-weight: map-get($font-styles, weight);
+    line-height: map-get($font-styles, line-height);
+    font-family: map-get($font-styles, family);
     position: absolute;
     top: 0;
     left: 15px;
@@ -114,20 +114,20 @@ export default {
     width: 260px;
     height: 100%;
     font-size: 20px;
-    font-style: map.get($font-styles, style);
-    font-weight: map.get($font-styles, weight);
-    line-height: map.get($font-styles, line-height);
-    font-family: map.get($font-styles, family);
+    font-style: map-get($font-styles, style);
+    font-weight: map-get($font-styles, weight);
+    line-height: map-get($font-styles, line-height);
+    font-family: map-get($font-styles, family);
 }
 
 .a-text {
     width: 260px;
     height: 100%;
     font-size: 16px;
-    font-style: map.get($font-styles, style);
-    font-weight: map.get($font-styles, weight);
-    line-height: map.get($font-styles, line-height);
-    font-family: map.get($font-styles, family);
+    font-style: map-get($font-styles, style);
+    font-weight: map-get($font-styles, weight);
+    line-height: map-get($font-styles, line-height);
+    font-family: map-get($font-styles, family);
 }
 
 

@@ -29,10 +29,10 @@ export default {
     background-color: $quaternary-color;
 }
 .QAEyeCatch p {
-    font-style: map.get($font-styles, style);
-    font-weight: map.get($font-styles, weight);
-    line-height: map.get($font-styles, line-height);
-    font-family: map.get($font-styles, family);
+    font-style: map-get($font-styles, style);
+    font-weight: map-get($font-styles, weight);
+    line-height: map-get($font-styles, line-height);
+    font-family: map-get($font-styles, family);
     font-size: 20px;
     margin: 0px;
 }
@@ -46,10 +46,10 @@ export default {
 }
 .QAabout p {
 
-    font-style: map.get($font-styles, style);
-    font-weight: map.get($font-styles, weight);
-    line-height: map.get($font-styles, line-height);
-    font-family: map.get($font-styles, family);
+    font-style: map-get($font-styles, style);
+    font-weight: map-get($font-styles, weight);
+    line-height: map-get($font-styles, line-height);
+    font-family: map-get($font-styles, family);
     font-size: 14px;
     line-height: 1.5;
     margin: 0;
