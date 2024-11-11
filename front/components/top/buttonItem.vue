@@ -94,9 +94,9 @@ export default {
 }
 
 .buttonText {
-    font-style: map-get($font-styles, style);
-    font-weight: map-get($font-styles, weight);
-    line-height: map-get($font-styles, line-height);
+    font-style: map.get($font-styles, style);
+    font-weight: map.get($font-styles, weight);
+    line-height: map.get($font-styles, line-height);
     font-family: $parallel-font-family;
     align-self: stretch;
     text-align: center;

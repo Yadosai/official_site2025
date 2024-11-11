@@ -78,20 +78,20 @@ section {
 
 .mogitenItemHeader .organization {
     color: $secondary-color;
-    font-family: map-get($font-styles, family);
-    font-style: map-get($font-styles, style);
-    font-weight: map-get($font-styles, weight);
-    line-height: map-get($font-styles, line-height);
+    font-family: map.get($font-styles, family);
+    font-style: map.get($font-styles, style);
+    font-weight: map.get($font-styles, weight);
+    line-height: map.get($font-styles, line-height);
     font-size: 14px;
     margin: 0;
 }
 
 .mogitenItemHeader .title {
     color: $secondary-color;
-    font-family: map-get($font-styles, family);
-    font-style: map-get($font-styles, style);
-    font-weight: map-get($font-styles, weight);
-    line-height: map-get($font-styles, line-height);
+    font-family: map.get($font-styles, family);
+    font-style: map.get($font-styles, style);
+    font-weight: map.get($font-styles, weight);
+    line-height: map.get($font-styles, line-height);
     margin: 0;
 }
 
@@ -158,10 +158,10 @@ section {
 }
 
 .mogitenItem .ItemContent .Introduction {
-    font-family: map-get($font-styles, family);
-    font-style: map-get($font-styles, style);
-    font-weight: map-get($font-styles, weight);
-    line-height: map-get($font-styles, line-height);
+    font-family: map.get($font-styles, family);
+    font-style: map.get($font-styles, style);
+    font-weight: map.get($font-styles, weight);
+    line-height: map.get($font-styles, line-height);
     margin: 0;
     width: 325px;
     font-size: 14px;
