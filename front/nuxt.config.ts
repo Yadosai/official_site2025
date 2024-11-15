@@ -1,12 +1,12 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
-export default ({
+export default {
   devtools: { enabled: true },
 
   vite: {
     css: {
       preprocessorOptions: {
         scss: {
-          additionalData: '@import "~/assets/css/main.scss";',
+          additionalData: '@use "@/assets/css/main.scss" as *;',
         }
       }
     }
@@ -22,4 +22,4 @@ export default ({
   },
 
   compatibilityDate: '2024-11-11',
-});
+};

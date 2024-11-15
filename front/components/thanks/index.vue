@@ -6,8 +6,8 @@
         </div>
     </div>
     <div class="bigsponsorContainer">
-        <sponsorItem sponsorUrl="https://mentoru.jp/info/tsukuba.html" sponsorLogoUrl="~/assets/img/thanks/mentoru.png" :sponsorDescript="MentoruText"/>
-        <sponsorItem sponsorUrl="https://gakuen-menkyo.jp/" sponsorLogoUrl="~/assets/img/thanks/gakuenmenkyo.png" :sponsorDescript="GakkuenMenkyoText"/>
+        <sponsorItem sponsorUrl="https://mentoru.jp/info/tsukuba.html" sponsorLogoUrl="/img/mentoru.jpg" :sponsorDescript="MentoruText"/>
+        <sponsorItem sponsorUrl="https://gakuen-menkyo.jp/" sponsorLogoUrl="/img/gakuenmenkyo.png" :sponsorDescript="GakkuenMenkyoText"/>
     </div>
     
     <div class="sponsorsContainer">
