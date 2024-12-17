@@ -10,7 +10,7 @@
     <div id="updateInfo">
         <p class="updateInfoTitle">更新情報</p>
         <div class="updateInfoContent">
-            <updataInfoItem updateDate="5/20" contentText="第50回やどかり祭のホームページを開設しました！" />
+            <updataInfoItem updateDate="12/17" contentText="第51回やどかり祭の情報を現在準備中です。2025年5月30,31日開催を予定しております！" />
         </div>
     </div>
     <div id="LinkButtons">
