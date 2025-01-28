@@ -91,6 +91,11 @@ export default {
     align-items: center;
     position: absolute;
     border: 1px solid;
+    transition: transform 0.3s ease;
+}
+
+.ButtonTextContainer:hover{
+  transform: scale(1.1);
 }
 
 .buttonText {
