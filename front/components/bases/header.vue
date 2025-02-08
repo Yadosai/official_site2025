@@ -151,11 +151,27 @@ nav.sm ul {
 }
 
 .menuItem {
+    position: relative;
     color: $secondary-color;
     text-decoration: none;
     display: block;
     line-height: 60px;
     padding: 0 20px;
+}
+.menuItem::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -2px; 
+    width: 100%;
+    height: 2px;
+    background-color: white;
+    transform: scaleX(0);
+    transition: transform 0.3s ease-in-out;
+}
+
+.menuItem:hover::after {
+    transform: scaleX(1);
 }
 
 nav.sm.menuItem {
