@@ -1,0 +1,15 @@
+{
+  "name": "official_site2025",
+  "version": "1.0.0",
+  "description": "```sh\r git clone git@github.com:Yadosai/official_site2024new.git\r docker compose up -d\r ```\r http://localhost:3000\r にアクセスすると確認できます。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^6.2.1"
+  }
+}
