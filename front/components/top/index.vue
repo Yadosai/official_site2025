@@ -1,6 +1,6 @@
 <template>
     <div id="eyeCatch">
-        <img src="~/assets/img/top/main.jpg" class="img-background">
+        <img src="~/assets/img/top/2025topimage.jpg" class="img-background">
         <div class="text-overlay">
             <p class="eyeCatchTitle">やどかり祭</p>
             <!--<p class="eyeCatchSubtitle">-最高到達点-</p>--> 

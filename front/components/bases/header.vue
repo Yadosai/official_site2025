@@ -164,10 +164,10 @@ nav.sm ul {
     left: 0;
     bottom: -2px; 
     width: 100%;
-    height: 2px;
+    height: 0.4px;
     background-color: white;
     transform: scaleX(0);
-    transition: transform 0.3s ease-in-out;
+    transition: transform 0.5s ease-in-out;
 }
 
 .menuItem:hover::after {
