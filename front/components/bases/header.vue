@@ -162,7 +162,7 @@ nav.sm ul {
     content: "";
     position: absolute;
     left: 0;
-    bottom: -2px; 
+    bottom: -4px; 
     width: 100%;
     height: 0.4px;
     background-color: white;
