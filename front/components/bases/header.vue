@@ -164,7 +164,7 @@ nav.sm ul {
     left: 0;
     bottom: -4px; 
     width: 100%;
-    height: 0.4px;
+    height: 1px;
     background-color: white;
     transform: scaleX(0);
     transition: transform 0.5s ease-in-out;
