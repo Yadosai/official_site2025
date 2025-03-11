@@ -158,21 +158,6 @@ nav.sm ul {
     line-height: 60px;
     padding: 0 20px;
 }
-.menuItem::after {
-    content: "";
-    position: absolute;
-    left: 0;
-    bottom: -2px; 
-    width: 100%;
-    height: 0.4px;
-    background-color: white;
-    transform: scaleX(0);
-    transition: transform 0.5s ease-in-out;
-}
-
-.menuItem:hover::after {
-    transform: scaleX(1);
-}
 
 nav.sm.menuItem {
     text-align: center;
