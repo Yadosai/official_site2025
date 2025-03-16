@@ -161,7 +161,6 @@ nav.sm ul {
 
 nav.sm.menuItem {
     text-align: center;
-    border-top: solid 0.5px rgba(255, 255, 255, 0.6);
 }
 
 nav.sm {
