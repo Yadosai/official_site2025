@@ -6,9 +6,7 @@
     <div id="SNSInjection">
         <div class="InjectionItem">
             <p>インスタ注目投稿</p>
-            <iframe src="https://www.instagram.com/p/C5ao9lIPW_E/embed" class="InjectionItemFrame" frameborder="0"
-                scrolling="no" allowtransparency="true">
-            </iframe>
+            <iframe src="https://www.instagram.com/p/DIC4LR9SlHb/embed" class="InjectionItemFrame" frameborder="0"  allowtransparency="true"></iframe>
         </div>
     </div>
 </template>

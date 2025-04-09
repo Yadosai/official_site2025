@@ -1,12 +1,12 @@
 <template>
-    <comingsoon />
+    <sinkan  />
 </template>
   
 <script>
-import comingsoon from '~/components/comingsoon/index.vue'
+import sinkan from '~/components/sinkan/index.vue'
 
 export default {
-    components: { comingsoon },
+    components: { sinkan },
     layout: "default",
 }
 </script>
