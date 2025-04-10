@@ -38,11 +38,42 @@ export default {
       required: true
     }
   },
-
-
+  
+  // 追加するコード
+  data() {
+    return {
+      isVisible: false
+    }
+  },
+  
+  mounted() {
+    this.observeVisibility();
+  },
+  
+  methods: {
+    observeVisibility() {
+      const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            this.isVisible = true;
+            observer.unobserve(entry.target);
+          }
+        });
+      }, {
+        threshold: 0.2
+      });
+      
+      observer.observe(this.$el);
+    }
+  },
+  
   computed: {
     buttonBackgroundStyle() {
-      return this.position === 'right' ? { right: '0px', bottom: '0px' } : { left: '10px', bottom: '0px' };
+      return {
+        ...(this.position === 'right' ? { right: '0px', bottom: '0px' } : { left: '10px', bottom: '0px' }),
+        opacity: this.isVisible ? 1 : 0,
+        transform: this.isVisible ? 'translateY(0)' : 'translateY(50px)'
+      };
     },
     textContainerStyle() {
       const backgroundColor = this.colorType === 'black' ? 'black' : 'white';
@@ -51,7 +82,10 @@ export default {
         'background-color': backgroundColor,
         'border-color': borderColor,
         'right': this.position === 'right' ? '10px' : '',
-        'left': this.position === 'left' ? '0px' : ''
+        'left': this.position === 'left' ? '0px' : '',
+        'opacity': this.isVisible ? 1 : 0,
+        'transform': this.isVisible ? `${this.isVisible ? 'scale(1)' : 'scale(0.9)'} translateY(0)` : `${this.isVisible ? 'scale(1)' : 'scale(0.9)'} translateY(50px)`,
+        'transition-delay': '0.2s'
       };
     },
     textStyle() {
@@ -80,6 +114,7 @@ export default {
     height: 140px;
     position: absolute;
     background: $primary-color;
+    transition: opacity 0.8s ease, transform 0.9s ease;
 }
 
 .ButtonTextContainer {
@@ -91,11 +126,12 @@ export default {
     align-items: center;
     position: absolute;
     border: 1px solid;
-    transition: transform 0.3s ease;
+    transition: opacity 0.8s ease, transform 0.8s ease;
 }
 
 .ButtonTextContainer:hover{
-  transform: scale(1.1) translate(-12px ,-12px);
+  transform: scale(1.05) translate(-12px ,-12px)!important;
+  transition: transform 0.3s  ease !important;
 }
 
 .buttonText {
@@ -113,6 +149,8 @@ export default {
     text-align: center;
     font-size: 64px;
 }
+
+
 
 @media (min-width: 950px) {
   .topPageButtonitemContainer {

@@ -161,9 +161,11 @@ nav.sm ul {
 }
 
 .menuItem:hover {
-    scale: 1.1;
+    transform: scale(1.1);
     color: rgb(235, 236, 238);
+    transition: transform 0.3s ease ;
 }
+
 
 nav.sm.menuItem {
     text-align: center;
