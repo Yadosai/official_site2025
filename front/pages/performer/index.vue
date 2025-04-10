@@ -3,7 +3,8 @@
 </template>
   
 <script>
-import comingsoon from '~/components/comingsoon/index.vue'
+import comingsoon from '~/components/comingsoon/index.vue';
+
 
 export default {
     components: { comingsoon },
@@ -14,4 +15,3 @@ export default {
 <style scoped>
 
 </style>
-  

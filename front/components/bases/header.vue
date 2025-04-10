@@ -157,6 +157,12 @@ nav.sm ul {
     display: block;
     line-height: 60px;
     padding: 0 20px;
+    transition: transform 0.3s ease ;
+}
+
+.menuItem:hover {
+    scale: 1.1;
+    color: rgb(235, 236, 238);
 }
 
 nav.sm.menuItem {

@@ -255,7 +255,38 @@ export default {
     width: 161px;
     padding: 0 5px;
     overflow: hidden;
+    transition: background-color 0.3s ease, transform 0.3s ease; 
 }
+
+.kikakuItem:hover {
+    background-color: #FF6B6B; 
+    transform: scale(1.01); 
+}
+
+.kikakuItem:hover .stageKikakuName,
+.kikakuItem:hover .stageKikakuTime {
+    color: white; 
+    font-weight: bold; 
+}
+
+.kikakuItem .stageKikakuLink .stageInfoWrapper p {
+    margin: 0;
+    font-family: map-get($font-styles, family);
+    font-style: map-get($font-styles, style);
+    font-weight: map-get($font-styles, weight);
+    line-height: map-get($font-styles, line-height);
+    font-size: 9px;
+    transition: color 0.3s ease, font-size 0.3s ease;
+}
+
+.kikakuItem:hover .stageKikakuName {
+    font-size: 21px; 
+}
+
+.kikakuItem:hover .stageKikakuTime {
+    font-size: 15px; 
+}
+
 
 .stageKikakuLink {
     cursor: pointer;
@@ -279,9 +310,11 @@ export default {
 
 .stageKikakuName {
     font-size: 20px;
+    transition: font-size 0.3s ease;
 }
 
 .stageKikakuTime {
     font-size: 14px;
+    transition: font-size 0.3s ease;
 }
 </style>

@@ -8,14 +8,14 @@
                 @click="selectFestival('zenyasai')">
                 <p>前夜祭</p>
                 <div class="textContainer" :class="{ 'isActive': selectedFestival === 'zenyasai' }">
-                    <p>5月31日</p>
+                    <p>5月30日</p>
                 </div>
             </div>
             <div class="switchButton right" :class="{ 'isActive': selectedFestival === 'honsai' }"
                 @click="selectFestival('honsai')">
                 <p>本祭</p>
                 <div class="textContainer" :class="{ 'isActive': selectedFestival === 'honsai' }">
-                    <p>6月1日</p>
+                    <p>5月31日</p>
                 </div>
             </div>
         </div>

@@ -6,6 +6,7 @@
             <!--<p class="eyeCatchSubtitle">-最高到達点-</p>--> 
             <p class="eyeCatchDate">5/30,5/31</p>
         </div>
+        
     </div>
     <div id="updateInfo">
         <p class="updateInfoTitle">更新情報</p>
