@@ -15,7 +15,7 @@
             <span>銀の豚</span>
             <span>つくば電気空調株式会社</span>
             <span>小山商会</span>
-            <span>めんどえステーションつくば</span>
+            <span>めんとるステーションつくば</span>
             <span>香陵住販株式会社</span>
             <span>パリミキ</span>
             <span>SALON DES CENT</span>
@@ -29,7 +29,7 @@
             <span>PROGRESS</span>
             <span>ASA学園都市</span>
             <span>定食食堂</span>
-            <span>スタジオオンツリーサイクル</span>
+            <span>スタジオソングサイクル</span>
             <span>suplis hair design</span>
             <span>レストラン夢屋</span>
         </div>
@@ -67,7 +67,7 @@
             <span>青山がらり</span>
             <span>有限会社オンザロードつくば</span>
             <span>朝日印刷株式会社</span>
-            <span>らぁめんえびすや</span>
+            <span>らぁめんゑびすや</span>
             <span>フライパン</span>
             <span>株式会社秀和不動産</span>
             <span>ばばば</span>
@@ -82,14 +82,14 @@
             <span>Bettei</span>
             <span>N's café</span>
             <span>WALK大学前通り店</span>
-            <span>有限会社柿本サンソウジング</span>
+            <span>有限会社柿本ハウジング</span>
             <span>百香亭 筑波大学店</span>
             <span>免キラ★つくばベース</span>
             <span>ミュージックプラント</span>
             <span>自家焙煎コーヒーファクトリー</span>
             <span>よりみちベーカリー</span>
             <span>ホワイトバジル</span>
-            <span>フリーダイヤ</span>
+            <span>フリーダイブ</span>
             <span>大将別館</span>
             <span>Beer & café engi</span>
             <span>ラーメン逆流</span>
