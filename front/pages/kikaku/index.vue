@@ -4,7 +4,6 @@
   
 <script>
 import comingsoon from '~/components/comingsoon/index.vue'
-//import kikaku from '~/components/kikaku/index.vue'
 
 export default {
     components: { comingsoon },

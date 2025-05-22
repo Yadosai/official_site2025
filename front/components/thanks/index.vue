@@ -7,108 +7,112 @@
     </div>
     <div class="bigsponsorContainer">
         <sponsorItem sponsorUrl="https://mentoru.jp/info/tsukuba.html" sponsorLogoUrl="/img/mentoru.jpg" :sponsorDescript="MentoruText"/>
-        <sponsorItem sponsorUrl="https://gakuen-menkyo.jp/" sponsorLogoUrl="/img/gakuenmenkyo.png" :sponsorDescript="GakkuenMenkyoText"/>
+        <sponsorItem sponsorUrl="https://share.google/9LdguqAqQ8h0WncqU" sponsorLogoUrl="/img/yorimichi.jpg" :sponsorDescript="YorimichiTextorimichiText"/>
     </div>
     
     <div class="sponsorsContainer">
         <div class="miniCon">
             <span>銀の豚</span>
-            <span>つくば青年会議所</span>
             <span>つくば電気空調株式会社</span>
             <span>小山商会</span>
+            <span>めんどえステーションつくば</span>
             <span>香陵住販株式会社</span>
-            <span>トクハシ（メガネ パリミキ）</span>
+            <span>パリミキ</span>
             <span>SALON DES CENT</span>
-            <span>上総屋不動産筑波大学前支店</span>
-            <span>プラス1カフェガーデン</span>
+            <span>上総屋不動産株式会社</span>
+            <span>PLUS-1 CAFE GARDEN</span>
             <span>飯岡医院</span>
             <span>大成不動産株式会社</span>
             <span>春日歯科医院</span>
             <span>有限会社岩崎電機</span>
-            <span>どら焼き専門店 志ち乃</span>
+            <span>どら焼き専門店・志ち乃</span>
             <span>PROGRESS</span>
-            <span>ASA学園都市(朝日新聞等販売) </span>
-            <span>博多拉麺 一休</span>
-            <span>定越食堂</span>
-            <span>スタジオソングサイクル</span>
+            <span>ASA学園都市</span>
+            <span>定食食堂</span>
+            <span>スタジオオンツリーサイクル</span>
             <span>suplis hair design</span>
+            <span>レストラン夢屋</span>
         </div>
         <div class="miniCon">
-            <span>レストラン 夢屋</span>
             <span>平砂理容室</span>
-            <span>株式会社秀和不動産</span>
-            <span>ばほばほ</span>
-            <span>北方園</span>
-            <span>つくばデザイン不動産</span>
-            <span>美味コレクション</span>
-            <span>勧学院</span>
-            <span>南山堂薬局つくば店</span>
-            <span>びすとろ椿々 追越店</span>
-            <span>naked bar</span>
-            <span>セブンイレブンつくば松見公園店</span>
-            <span>MUSIC PLANT</span>
+            <span>ぴすとろ椿々 追越店</span>
+            <span>セブンイレブン つくば松見公園店</span>
             <span>桜ヶ丘歯科センター</span>
-            <span>うなぎ松乃家</span>
-            <span>(有)細田金物店</span>
+            <span>有限会社細田金物店</span>
             <span>井上サイクル</span>
-            <span>印晶堂</span>
-            <span>かつ大</span>
+            <span>甲聞堂</span>
+            <span>かつ天</span>
             <span>灯禾軒</span>
-        </div>
-        <div class="miniCon">
-            <span>Lagoon</span>
             <span>菱光建設株式会社</span>
             <span>プリムローズ</span>
             <span>一誠商事</span>
             <span>肉のいなげや</span>
             <span>Layout9</span>
             <span>お酒とごはん わかたろう</span>
-            <span>カラオケBanBanつくば学園店</span>
-            <span>POTATO'S CAFE craftfries</span>
-            <span>クーロンヌ　つくば</span>
+            <span>からおけBanBanつくば学園店</span>
             <span>フライングガーデンつくば西平塚店</span>
-            <span>(株)アジア住販天久保店</span>
-            <span>らーめん逆流</span>
-            <span>(株)井上フード（カレー屋＆粉クリ）</span>
-            <span>牛角つくばテクノパーク桜店</span>
+            <span>株式会社アジア住販</span>
             <span>桂不動産</span>
             <span>本家かまどや つくば春日店</span>
-            <span>あじ彩</span>
-            <span>なごみ処きりん</span>
-            <span>ファミリーマートつくば葛城店</span>
         </div>
         <div class="miniCon">
+            <span>あじ彩</span>
+            <span>ファミリーマートつくば葛城店</span>
             <span>ガーリーショット</span>
             <span>カラオケボイス</span>
             <span>Cruise</span>
             <span>ル・パン グリ・グリ</span>
-            <span>おふくろさん弁当</span>
             <span>Cafe4</span>
-            <span>MATSUSHIRO BURGER</span>
-            <span>お食事処 花むろ</span>
-            <span>つけめん・まぜそば　むじゃき</span>
+            <span>つけめん・まぜそば むじゃき</span>
             <span>青山がらり</span>
             <span>有限会社オンザロードつくば</span>
+            <span>朝日印刷株式会社</span>
+            <span>らぁめんえびすや</span>
+            <span>フライパン</span>
+            <span>株式会社秀和不動産</span>
+            <span>ばばば</span>
+            <span>つくばデザイン不動産</span>
+            <span>カードックオノノ</span>
+            <span>ごう家</span>
+            <span>松見タクシー</span>
+            <span>七福軒</span>
+        </div>
+        <div class="miniCon">
+            <span>ミート&デリ プラム</span>
+            <span>Bettei</span>
+            <span>N's café</span>
+            <span>WALK大学前通り店</span>
+            <span>有限会社柿本サンソウジング</span>
+            <span>百香亭 筑波大学店</span>
+            <span>免キラ★つくばベース</span>
+            <span>ミュージックプラント</span>
+            <span>自家焙煎コーヒーファクトリー</span>
+            <span>よりみちベーカリー</span>
+            <span>ホワイトバジル</span>
+            <span>フリーダイヤ</span>
+            <span>大将別館</span>
+            <span>Beer & café engi</span>
+            <span>ラーメン逆流</span>
+            <span>株式会社井上フード（カレー屋＆粉クリ）</span>
         </div>
     </div>
 </template>
-  
+
 <script>
 import sponsorItem from '~/components/thanks/sponsorItem'
-
 
 export default {
     components: { sponsorItem },
     data() {
         return {
             SeirokuyaText: "",
-            GakuenMenkyoText: "",
+            YorimichiText: "",
             MentoruText: ""
         };
     }
 }
 </script>
-  
+
 <style lang="scss">
 .thanksEyeCatch {
     display: flex;
@@ -186,6 +190,4 @@ export default {
         font-size: 40px;
     }
 }
-
 </style>
-  

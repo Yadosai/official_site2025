@@ -3,7 +3,7 @@
         <img src="~/assets/img/top/2025topimage.jpg" class="img-background">
         <div class="text-overlay">
             <p class="eyeCatchTitle">やどかり祭</p>
-            <!--<p class="eyeCatchSubtitle">-最高到達点-</p>--> 
+            <p class="eyeCatchSubtitle">～<ruby>祭開始<rt>再スタート</rt></ruby>～</p>
             <p class="eyeCatchDate">5/30,5/31</p>
         </div>
         
@@ -11,7 +11,7 @@
     <div id="updateInfo">
         <p class="updateInfoTitle">更新情報</p>
         <div class="updateInfoContent">
-            <updataInfoItem updateDate="12/17" contentText="第51回やどかり祭の情報を現在準備中です。2025年5月30,31日開催を予定しております！" />
+            <updataInfoItem updateDate="5/20" contentText="協賛団体情報を今年度の情報に更新しました！" />
         </div>
     </div>
     <div id="LinkButtons">
@@ -34,6 +34,7 @@
     <div id="trafficRule">
         <p class="trafficTitle">当日の交通規制について</p>
         <img class="trafficImg" src="~/assets/img/top/trafficRole.png">
+        <p class="photoattention">プライバシー保護の観点から、人物が写る写真を撮影される際は、必ずご本人の許可をお取りください。</p>
     </div>
 </template>
 
@@ -97,7 +98,7 @@ export default {
     font-weight: map-get($font-styles, weight);
     line-height: map-get($font-styles, line-height);
     position: absolute;
-    left: 10px;
+    left: 15px;
     bottom: 20px;
     color: $secondary-color;
     font-size: 20px;
@@ -185,6 +186,18 @@ export default {
     height: auto;
 }
 
+.photoattention{
+    font-family: map-get($font-styles, family);
+    font-style: map-get($font-styles, style);
+    font-weight: map-get($font-styles, weight);
+    line-height: map-get($font-styles, line-height);
+    align-self: stretch;
+    color: white;
+    text-align: center;
+    font-size: 10px;
+    margin: 0;
+}
+
 @media (min-width: 950px) {
     #eyeCatch {
         height: calc(100vh - 60px);
@@ -200,7 +213,7 @@ export default {
     }
 
     .eyeCatchSubtitle {
-        left: 10px;
+        left: 16px;
         bottom: 20px;
         font-size: 5vh;
     }
@@ -224,5 +237,8 @@ export default {
         height: auto;
     }
 
+    .photoattention{
+        font-size: 20px;
+    }
 }
 </style>
