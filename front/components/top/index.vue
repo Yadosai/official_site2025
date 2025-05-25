@@ -12,6 +12,7 @@
         <p class="updateInfoTitle">更新情報</p>
         <div class="updateInfoContent">
             <updataInfoItem updateDate="5/20" contentText="協賛団体情報を今年度の情報に更新しました！" />
+            <updataInfoItem updateDate="5/25" contentText="企画情報を公開しました！" />
         </div>
     </div>
     <div id="LinkButtons">
