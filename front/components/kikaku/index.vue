@@ -51,6 +51,8 @@
             description="やどカラ！参加者が歌を歌ってその出来を競う企画です。御輿の前にやどカラを見て気持ちを盛り上げましょう。" />
         <item kikakuID="9" title="縁日" imgUrl="/img/kikaku/enniti.jpg" holder="企画部局" :places="['メインステージ横']"  :dates='["5月31日：17:00～20:30","6月1日：11:10～20:30"]'
             description="縁日は巨大だるま落としや、射的などで遊べる企画です。お祭りらしいエリアになっているのでぜひ楽しんでいってください。" />
+        <item kikakuID="9" title="やどかりゆーす" imgUrl="" holder="実行委員" :places="['メインステージ横']"  :dates='["5月30日：18:00～21:00","5月31日：12:00～17:00"]'
+            description="日本古来の美徳「もったいない精神」を大切にする環境に優しい企画です。実行委員が集めた再利用可能な物を安価で販売し、宿舎祭に来た皆さんや新入生を中心とした筑波大生の日常生活をサポートします。掘り出し物が見つかるかも？ぜひお立ち寄りください。" />
         <item kikakuID="10" title="本祭OP" imgUrl="/img/kikaku/OP.jpg" holder="有志・サークル" :places="['メインステージ']"  :dates='["5月31日：11:05～12:05"]'
             description="本祭オープニングでは筑波大学のサークルがやどかり祭本祭の開幕を盛り上げてくれます。みんなで祭の開幕をむかえましょう。" />
     </div>
@@ -79,7 +81,7 @@ export default {
                     { id: 3, stageId: 1, kikakuName: '野外ライブ(レプリカ)', kikakuStart: '19:25', kikakuEnd: '19:50' },
                     { id: 3, stageId: 1, kikakuName: '野外ライブ(カニカーニコア倶楽部)', kikakuStart: '19:50', kikakuEnd: '20:15' },
                     { id: 3, stageId: 1, kikakuName: '野外ライブ(マイジ・テマホ軍団)', kikakuStart: '20:15', kikakuEnd: '20:40' },
-                    { id: 9, stageId: 2, kikakuName: '縁日・やどかりゆーす', kikakuStart: '17:00', kikakuEnd: '20:30' },
+                    { id: 9, stageId: 2, kikakuName: '縁日(17:00~20:30),やどかりゆーす(18:00~21:00)', kikakuStart: '17:00', kikakuEnd: '21:00' },
                     { id: 6, stageId: 3, kikakuName: 'ミニステージ(筑波大学アカペラサークルDoo-Wop)', kikakuStart: '18:00', kikakuEnd: '18:30' },
                     { id: 6, stageId: 3, kikakuName: 'ミニステージ(現代視覚文化研究会)', kikakuStart: '18:50', kikakuEnd: '19:20' },
                     { id: 6, stageId: 3, kikakuName: 'ミニステージ(筑波大学津軽三味線倶楽部無限塾)', kikakuStart: '19:30', kikakuEnd: '20:00' },
@@ -109,7 +111,7 @@ export default {
                     { id: 1, stageId: 1, kikakuName: 'ゆかコン', kikakuStart: '18:18', kikakuEnd: '19:25' },
                     { id: 1, stageId: 1, kikakuName: '表彰式(20:50花火打上)', kikakuStart: '19:45', kikakuEnd: '21:00' },
                     { id: 8, stageId: 6, kikakuName: 'やどカラ', kikakuStart: '14:30', kikakuEnd: '16:40' },
-                    { id: 9, stageId: 2, kikakuName: '縁日・やどかりゆーす', kikakuStart: '11:10', kikakuEnd: '20:30' },
+                    { id: 9, stageId: 2, kikakuName: '縁日(11:10~20:30),やどかりゆーす(12:00~17:00)', kikakuStart: '11:10', kikakuEnd: '20:30' },
                 ]
             },
             stageList: {
