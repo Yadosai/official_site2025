@@ -6,192 +6,192 @@
         <img src="~/assets/img/mogiten/mogimap.jpg">
     </div>
     <div id="mogitenItemContainer">
-        <item  mogitenName="ツクバナナ" mogitenFontSize="24px" organizationName="総合学域群第1類1.4クラス"
-            mogitenIntroduction="甘くておいしいチョコバナナです！是非お立ち寄りください！！" mogitenId="19"
-            holdingTime_1="3月31日:14:00~15:00" holdingTime_2="" />
-        <item  mogitenName="粉とミックス" mogitenFontSize="24px" organizationName="総合学域群第1類2.6クラス"
-            mogitenIntroduction="ついに筑波にも10円パンがやってきました！それと合わせて飲むミックスジュースもきっと食べ合わせ抜群！" mogitenId="37"
+        <item  mogitenName="本場たこ焼き　MAIDO" mogitenFontSize="24px" organizationName="物理学類1年"
+            mogitenIntroduction="大阪出身者完全監修のもと、本場の味を完全再現！ めっちゃうまいたこ焼きを食べなはれ！！" mogitenId="1"
             holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="H＆S" mogitenFontSize="24px" organizationName="総合学域群第1類5クラス"
-            mogitenIntroduction="暑い夏にぴったりの冷たいシェイクとお好み焼きを割り箸に巻いた手持ちで食べやすいはしまきを販売します！" mogitenId="40"
+        <item  mogitenName="じゃぶ鳥" mogitenFontSize="24px" organizationName="じゃぶじゃ部"
+            mogitenIntroduction="安い！早い！じゃぶい！ここでしか味わえない究極にじゃぶじゃぶな焼き鳥、その味を体感せよ！" mogitenId="2"
             holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="ナチュロス" mogitenFontSize="24px" organizationName="総合学域群第2類1.3クラス"
-            mogitenIntroduction="安心安全美味しいチュロス。少し味変したアンナチュロスも売ってます!飲み物もありますよ!" mogitenId="21"
+        <item  mogitenName="BABYパチカス" mogitenFontSize="24px" organizationName="芸術専門学群1,2クラス"
+            mogitenIntroduction="「パチ」パチサイダーと、ベビー「カス」テラ売ってます！" mogitenId="3"
             holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="エコノミー焼き" mogitenFontSize="24px" organizationName="総合学域群第2類4.5クラス"
-            mogitenIntroduction="大学生のお財布に優しい経済的｢エコノミー｣なお好み焼きを提供します。" mogitenId="42"
+        <item  mogitenName="Pizzeria Hirasuna" mogitenFontSize="24px" organizationName="情報科学研究会"
+            mogitenIntroduction="熱々ピザ窯から出来たて提供！こだわり生地と厳選素材の本格ピザです！" mogitenId="4"
             holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="ヘンゲンジザイ～総合のかき氷～" mogitenFontSize="16px" organizationName="総合学域群第2類6.7クラス"
-            mogitenIntroduction="私たちの進路のように変幻自在に選べるトッピングと味と作り方をぜひご賞味あれ！" mogitenId="8"
+        <item  mogitenName="cutie banana street" mogitenFontSize="16px" organizationName="芸術専門学群3クラス"
+            mogitenIntroduction="芸専生による世界一artisticなチョコバナナ爆誕⭐︎映え確定のcuteなパフェも！スイーツならここ一択でしょ♡" mogitenId="5"
             holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="スペシャルたこせん" mogitenFontSize="24px" organizationName="総合学域群第3類1.2クラス"
-            mogitenIntroduction="たこ焼き２個入りのたこせんです！たこ焼きの中身はタコまたはチーズ＆ウインナーで選べます。タコが苦手な方でも安心です。ぜひ食べに来てください！" mogitenId="7"
+        <item  mogitenName="IMAGINE TAKOYAKI FUTURE" mogitenFontSize="16px" organizationName="工学システム学類1年3、4クラス"
+            mogitenIntroduction="工学システム学類のみんなが線形代数を用いて全ての人が愛せる味に仕上げました。是非たこ焼きの未来を想像しながらご賞味あれ。" mogitenId="6"
             holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="冷麺屋さん" mogitenFontSize="24px" organizationName="総合学域群第3類3.4クラス"
-            mogitenIntroduction="今までに前例のない冷麵専門店オープン！ツルッとさっぱりここで一息！やど祭の〆にご賞味あれ！" mogitenId="31"
+        <item  mogitenName="落合カレー2025" mogitenFontSize="24px" organizationName="情報メディア創成学類１年"
+            mogitenIntroduction="ストローでいけるカレー。片手でいけるからスマホを手放せない現代人におすすめ！結構おいしいよこれ。" mogitenId="7"
             holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="JJJ" mogitenFontSize="24px" organizationName="人文学類1年1.2クラス"
-            mogitenIntroduction="人文じゃがいもジュースです。いももちと飲み物売ってるのでぜひお越しください✨" mogitenId="51"
+        <item  mogitenName="学より団子" mogitenFontSize="24px" organizationName="日本語･日本文化学類1-1"
+            mogitenIntroduction="圧倒的な存在感でキャンパスを支配する4本の団子。 スイーツ界の癒し担当、和風デザートのスターです！ 一口で今日が好きになる。 甘いだけじゃ、終わらせない。" mogitenId="8"
             holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="甘味処　脂肪と糖　〜華の373kcal〜" mogitenFontSize="16px" organizationName="人文学類1年3.4クラス"
-            mogitenIntroduction="「華の」人文学類がチョコバナナとクロッフルであなたを魅了します♡　カロリーの量は愛の重みです♡" mogitenId="36"
+        <item  mogitenName="超臨界やきそば" mogitenFontSize="24px" organizationName="化学類1年"
+            mogitenIntroduction="超臨界並みの美味しさに仕上げた焼きそばです！！化学類一年で作りました！ご賞味あれ！！！" mogitenId="9"
             holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="ゴマダンゴ、お前もか" mogitenFontSize="24px" organizationName="人文学類1年5クラス"
-            mogitenIntroduction="ごま団子のごま団子によるごま団子のための団子です！甘くて美味しいごま団子をぜひお食べください！！！" mogitenId="34"
+        <item  mogitenName="メディカルバナナ" mogitenFontSize="24px" organizationName="医学類1年2.3クラス"
+            mogitenIntroduction="医学類発！チョコとバナナで甘さを処方中！身も心も癒される中毒性!?用法･用量を守ってご利用ください♡" mogitenId="10"
             holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="cc.ccc" mogitenFontSize="24px" organizationName="比較文化学類1年"
-            mogitenIntroduction="祭りの喉に、クリームソーダ。あなたの小腹にクレープひとつ。※視力検査ではありません。" mogitenId="62"
+        <item  mogitenName="ぱんぱかパンケーキ" mogitenFontSize="24px" organizationName="iGEM TSUKUBA"
+            mogitenIntroduction="生物学研究団体が本気で作る、ぱんぱかぱんなパンケーキです。この夏、史上最高のふわふわを体験せよ。" mogitenId="11"
+            holdingTime_1="両日" holdingTime_2="" />
+        <item  mogitenName="CRÊPEWAY" mogitenFontSize="24px" organizationName="医療科1年"
+            mogitenIntroduction="生地や具材を自分好みにカスタマイズ！サブウェイ型の新感覚クレープで甘いも食事系も自由自在。" mogitenId="12"
+            holdingTime_1="両日" holdingTime_2="" />
+        <item  mogitenName="まーさん屋" mogitenFontSize="24px" organizationName="沖縄県人会"
+            mogitenIntroduction="サーターアンダギーとちんすこう、本祭ではちんすこうアイスも販売します！うさがみそーれ！" mogitenId="13"
+            holdingTime_1="両日" holdingTime_2="" />
+        <item  mogitenName="Hola!!TACOS!!" mogitenFontSize="24px" organizationName="社会工学類1-1,3"
+            mogitenIntroduction="挨拶より先に、まずタコス！Hola!! TACOS!!で会いましょう！" mogitenId="14"
+            holdingTime_1="両日" holdingTime_2="" />
+        <item  mogitenName="鳥皇族" mogitenFontSize="24px" organizationName="総合3類1-1,2"
+            mogitenIntroduction="鶏派？...ふふ、豚バラ食べてから言ってよ。" mogitenId="15"
+            holdingTime_1="両日" holdingTime_2="" />
+        <item  mogitenName="はなまるカステラ ~edu~" mogitenFontSize="24px" organizationName="教育1クラス"
+            mogitenIntroduction="'ひとくちのやさしさ'を、あなたに。" mogitenId="16"
+            holdingTime_1="両日" holdingTime_2="" />
+        <item  mogitenName="九州人会・梅が枝餅" mogitenFontSize="24px" organizationName="九州人会"
+            mogitenIntroduction="九州人会初となる出品は、福岡県太宰府の有名焼き菓子「梅ヶ枝餅」！ 本場の味を召し上がれ！！！" mogitenId="17"
             holdingTime_1="本祭のみ" holdingTime_2="" />
-        <item  mogitenName="☆N1CH1フード‪☆" mogitenFontSize="24px" organizationName="日本語・日本文化学類1年"
-            mogitenIntroduction="人気の屋台料理Banh My！ 日越外交関係50周年を祝し、 日日がベトナムのソウルフードを提供します☆" mogitenId="15"
+        <item  mogitenName="地球焼き" mogitenFontSize="24px" organizationName="地球学類1年"
+            mogitenIntroduction="地球学類の地球焼き！地球を愛し、地球に愛された我々が作る渾身の逸品を御賞味あれ！" mogitenId="18"
             holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="しゃが貴族" mogitenFontSize="24px" organizationName="社会学類1年1.3クラス"
-            mogitenIntroduction="たかが焼き鳥屋で、世の中を明るくしていきたい。冷たい飲み物とご一緒に。" mogitenId="52"
+        <item  mogitenName="ベビベビ" mogitenFontSize="24px" organizationName="情報科学類1年1.2クラス"
+            mogitenIntroduction="いろんな味のコロコロしたベビーカステラを作りました！見た目は可愛い♡味は美味しい♡ぜひ食べに来てね！" mogitenId="19"
             holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="天使の羽根" mogitenFontSize="24px" organizationName="社会学類1年2クラス"
-            mogitenIntroduction="羽付き餃子でお祭りの日の腹ごしらえはいかがですか？　是非お越しください！！" mogitenId="4"
+        <item  mogitenName="フランクフルトだけじゃダメですか！？" mogitenFontSize="16px" organizationName="社会学類1-1"
+            mogitenIntroduction="フランクフルト一筋1ヶ月！最上級においしい❤️、でもちょっぴり可愛い至極の1本をぜひご堪能あれ！" mogitenId="20"
             holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="ホットク？いや、ホットケナイ。" mogitenFontSize="16px" organizationName="国際総合学類1年"
-            mogitenIntroduction="国際総合学類はもちもちのホットクと甘酸っぱいレモネードを販売します！ぜひお立ち寄りください✨" mogitenId="13"
-            holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="たこやき教室" mogitenFontSize="24px" organizationName="教育学類1年"
-            mogitenIntroduction="「たこ焼きとは」を実演を通して実践的に学ぶ。受講生はたこ焼きの試食に積極的に参加することが望ましい。" mogitenId="17"
-            holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="psycho(最高) pop soda" mogitenFontSize="24px" organizationName="心理学類1年"
-            mogitenIntroduction="僕達はまだ酒は飲めないが、このソーダなら飲める！そしてそのツマミにポップコーン！ほんと、psycho(最高)じゃないか！" mogitenId="39"
-            holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="Rice to meat you !" mogitenFontSize="24px" organizationName="障害科学類1年"
-            mogitenIntroduction="私たちが出店するのは肉巻きおにぎりです！ほかほかご飯とおいしいお肉で皆さんのエネルギーをチャージ！" mogitenId="46"
+        <item  mogitenName="占いの館" mogitenFontSize="24px" organizationName="体育専門学群1-2"
+            mogitenIntroduction="ぜひ来てください！" mogitenId="21"
             holdingTime_1="本祭のみ" holdingTime_2="" />
-        <item  mogitenName="ミートコーンドリア" mogitenFontSize="24px" organizationName="生物学類1年1.2クラス"
-            mogitenIntroduction="やど祭を楽しみたい方必見👀これを食べてATPをチャージ！最後まで祭を楽しむエネルギーをあなたに！！！" mogitenId="45"
+        <item  mogitenName="えんにち三投菓" mogitenFontSize="24px" organizationName="筑波大学ダーツ同好会"
+            mogitenIntroduction="「くじ引き×ダーツ」運試しで投げる本数が決まる新感覚ダーツ企画です！" mogitenId="22"
+            holdingTime_1="両日" holdingTime_2="" />
+        <item  mogitenName="PANDAのお遊戯会" mogitenFontSize="24px" organizationName="オセロ同好会PANDA"
+            mogitenIntroduction="【挑戦者求む】オセロくじやオセロ対局、メンバーとオセロを使ったパズルゲームやってます！景品もあるよ〜！" mogitenId="23"
+            holdingTime_1="両日" holdingTime_2="" />
+        <item  mogitenName="お菓子打ち取りました" mogitenFontSize="24px" organizationName="硬式野球部"
+            mogitenIntroduction="豪華景品があたるかも？！" mogitenId="24"
             holdingTime_1="本祭のみ" holdingTime_2="" />
-        <item  mogitenName="トRNAド🍟×RモNAド🍋" mogitenFontSize="24px" organizationName="生物学類1年3.4クラス"
-            mogitenIntroduction="RNAのらせん構造をイメージしたトルネードポテトとレモネードなど各種ドリンクを販売！ぜひお越しください！ " mogitenId="44"
+        <item  mogitenName="広島県人会お好み焼き" mogitenFontSize="24px" organizationName="広島県人会"
+            mogitenIntroduction="毎年好評の、広島県人による広島お好み焼きの出店です！目の前で手際よく焼かれる様子も是非ご覧下さい！" mogitenId="25"
+            holdingTime_1="両日" holdingTime_2="" />
+        <item  mogitenName="ベビー核テラ" mogitenFontSize="24px" organizationName="生物学類3-4クラス"
+            mogitenIntroduction="？！核膜ぶち抜き注意！？染色体がザワつく美味さ…ベビー核テラ(カステラ)ただいま大量分裂中！！！" mogitenId="26"
             holdingTime_1="本祭のみ" holdingTime_2="" />
-        <item  mogitenName="しげんのたませんやで！" mogitenFontSize="24px" organizationName="生物資源学類1年1.4クラス"
-            mogitenIntroduction="たません、知ってますか？知ってる人は買うしかない！知らない人は人生損してますよ〜　キンキンのラムネとぜひ一緒に！" mogitenId="6"
+        <item  mogitenName="旅する焼き鳥屋さん" mogitenFontSize="24px" organizationName="旅する焼き鳥屋さん"
+            mogitenIntroduction="焼き鳥食べて、つくばの暑い夏を乗り切ろう！！！" mogitenId="27"
             holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="わたがしげん" mogitenFontSize="24px" organizationName="生物資源学類1年2.3クラス"
-            mogitenIntroduction="巨大綿飴をGET！ じゃんけんに勝ったら１.５倍 負けたら半分の綿飴がもらえます！君はどっち！！" mogitenId="47"
+        <item  mogitenName="Imagine The YAKISOBA." mogitenFontSize="16px" organizationName="総合学域群第2類2,3クラス"
+            mogitenIntroduction="お客さんの思い出に残るようなお店です。どんな焼きそばなのかIMAZINEしてお越しください！" mogitenId="28"
             holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="Earth Shooters!!" mogitenFontSize="24px" organizationName="地球学類1年"
-            mogitenIntroduction="皆さん地球が憎くないですか?ボールを投げる的あてゲームで憎き地球をぶっ倒そう!" mogitenId="57"
+        <item  mogitenName="Dr.Egg" mogitenFontSize="24px" organizationName="医学群医学類1年4､6クラス"
+            mogitenIntroduction="出張診療所やります。ハイになって、キモチよくなるけど合法のおクスリあります♡きてねー" mogitenId="29"
             holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="ちきゅう屋" mogitenFontSize="24px" organizationName="地球学類3年"
-            mogitenIntroduction="地球大好き地球学類3年生による鉱物・化石販売です。美しい鉱物や地球の歴史を感じる化石はいかがですか？" mogitenId="9"
+        <item  mogitenName="つくばフランク王国" mogitenFontSize="24px" organizationName="人文学類1年4.5クラス"
+            mogitenIntroduction="パリッと美味しいフランクフルト販売中！アツアツなフランクフルトでやど祭を熱く盛り上げます！" mogitenId="30"
             holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="ファーストカキゴオリヤーセミナー" mogitenFontSize="16px" organizationName="数学類1年"
-            mogitenIntroduction="こちら必修科目となっています。成績評価方法ですが、かき氷を購入すること（100%）を用いてP/Fで判定します。" mogitenId="30"
-            holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="アメンシュタイン～かき氷食えない男厳しいって～" mogitenFontSize="14px" organizationName="物理学類1年"
-            mogitenIntroduction="私たちの想いが詰まったフルーツ飴とこの季節にぴったりなかき氷をぜひ召し上がってみませんか！？" mogitenId="61"
-            holdingTime_1="本祭のみ" holdingTime_2="" />
-        <item  mogitenName="バケバブ" mogitenFontSize="24px" organizationName="化学類1年1.2クラス"
-            mogitenIntroduction='バケガク類が研究開発したケバブ"バケバブ"は宿舎祭の新定番になること間違いなし！ぜひお試しあれ！' mogitenId="18"
-            holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="たい焼きやいた" mogitenFontSize="24px" organizationName="工学システム学類1年1.2クラス"
-            mogitenIntroduction="筑波大理工学生が作る美味しいたい焼きです。一緒に販売しているレモネードもどうぞ!" mogitenId="50"
-            holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="幸せのクレープ" mogitenFontSize="24px" organizationName="工学システム学類1年3.4クラス"
-            mogitenIntroduction="お馴染みのクレープに加えて抹茶を練りこんだ和風クレープも提供します。　奥ゆかしい風味をお試しあれ！" mogitenId="2"
-            holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="Wrapped Happy" mogitenFontSize="24px" organizationName="応用理工学類1年"
-            mogitenIntroduction="集まれ！甘党！ 自由なトッピングであなただけのクレープができる「wrapped happy」で甘いひと時を♡" mogitenId="16"
-            holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="社工フルーティア" mogitenFontSize="24px" organizationName="社会工学類1年1.3クラス"
-            mogitenIntroduction="美味しいフルーツあめとかき氷を作ります。ぜひ食べに来てください！" mogitenId="22"
-            holdingTime_1="本祭のみ" holdingTime_2="" />
-        <item  mogitenName="はしまき&飲むわらび餅" mogitenFontSize="24px" organizationName="社会工学類1年2.4クラス"
-            mogitenIntroduction="社工1年2,4クラによる『はしまき&飲むわらび餅』！しょっぱい物と甘い物を同時に楽しめるお店です！" mogitenId="12"
-            holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="Imagine The Noodle." mogitenFontSize="24px" organizationName="社会工学類2年男子有志"
-            mogitenIntroduction="やどかり祭の新たなる一杯を想像せよ！社工男子が贈る究極のラーメン体験。未来を味わう、一杯の魔法。" mogitenId="20"
-            holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="食べるとフル単チュロス" mogitenFontSize="24px" organizationName="情報科学類1年"
-            mogitenIntroduction="祭りといえばチュロス！そこに学生が求めるフル単をトッピング🌟 なんと味は５種類！これは来るしか！！" mogitenId="56"
-            holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="男爵芋" mogitenFontSize="24px" organizationName="情報科学類1年3クラス"
-            mogitenIntroduction="じゃがバターを愛する者たちのためのパラダイスが登場！モリモリ食べて、テンションもモリモリ上がる！" mogitenId="60"
-            holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="落合カレー" mogitenFontSize="24px" organizationName="情報メディア創成学類1年"
-            mogitenIntroduction="落合陽一先生公認！米とカレーを一体化させ、ストローで楽しむ革新的な逸品。その美味しさを共有しよう！" mogitenId="10"
-            holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="KLiSweets" mogitenFontSize="24px" organizationName="知識情報・図書館学類1年1.2クラス"
-            mogitenIntroduction="やれやれ、僕だって暑くてたまらないさ つまりさ、僕はきみのために初夏のスイーツを作ったってわけなんだ" mogitenId="41"
-            holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="ヤドカリ輪っしょい" mogitenFontSize="24px" organizationName="医学類1年1.6クラス"
-            mogitenIntroduction='やっぱ世界中の人が手を取り合えば平和よね。人と人の"輪"大事にしてこ。って事で輪投げでもしとく？' mogitenId="25"
-            holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="食生活♡♡チュロス" mogitenFontSize="24px" organizationName="医学類1年2.5クラス"
-            mogitenIntroduction="サクサクもちもち！！美味しいチュロスはいかがですか？？トッピングで自分だけのチュロスを作っちゃおう！！" mogitenId="5"
-            holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="ホットドッグへの誘い" mogitenFontSize="24px" organizationName="医学類1年3.4クラス"
-            mogitenIntroduction="皆さんを唯一無二のホットドッグへ誘います。" mogitenId="54"
-            holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="ワッフル工房とタピオカの森" mogitenFontSize="24px" organizationName="看護学類1年A.Dクラス"
-            mogitenIntroduction="看護学類1年A&Dクラスです。カリカリワッフルとタピオカを販売します！様々な種類を取り揃えてお待ちしています。ぜひお越しください！" mogitenId="3"
-            holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="看護チュロス" mogitenFontSize="24px" organizationName="看護学類1年B.Cクラス"
-            mogitenIntroduction="看護BCはチュロスを販売します！種類もたくさん用意する予定です。一生懸命作るのでぜひ立ち寄ってください！" mogitenId="35"
-            holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName='"heavy"カステラ' mogitenFontSize="24px" organizationName="医療科学類1年"
-            mogitenIntroduction="この名前に釣られたあんた。自分らはあんたを笑顔にできんで。ほんまかって？食べた後、鏡見てみ？" mogitenId="26"
-            holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="それがしわたがし" mogitenFontSize="24px" organizationName="芸術専門学群1.2クラス"
-            mogitenIntroduction="ここではonly oneの綿菓子を販売してます！個性豊かな絵と共に映える綿菓子をぜひご賞味ください！" mogitenId="33"
-            holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="なつかしのかたぬき" mogitenFontSize="24px" organizationName="芸術専門学群1年3クラス"
-            mogitenIntroduction="綺麗にかたぬけたら豪華景品！皆さんのアーティステックな手捌きを見せてください！！" mogitenId="48"
-            holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="Kure-Crepe" mogitenFontSize="24px" organizationName="Kure-Crepe"
-            mogitenIntroduction="バター香るもちもちの生地。極上食感のクリーム。宝石のようなフルーツ。Kure-Crepe[クレクレ]" mogitenId="28"
-            holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="そんみんパフェ" mogitenFontSize="24px" organizationName="のうりんむら有志"
-            mogitenIntroduction="のうりんむらの３年生有志が、パフェを出します！！ご賞味あれ！！" mogitenId="43"
-            holdingTime_1="本祭" holdingTime_2="" />
-        <item  mogitenName="〇〇焼き" mogitenFontSize="24px" organizationName="地理愛好会"
-            mogitenIntroduction="大判焼き、今川焼き…etc.あなたはなんて読んでますか？呼び方分布マップの作成にぜひご協力を！" mogitenId="55"
-            holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="Banachパフェ" mogitenFontSize="24px" organizationName="数学学位プログラムM1"
-            mogitenIntroduction="数学M1がバナナパフェとドリンクを販売します。定義【BがBanachパフェ】:Bの任意のバナナは甘美" mogitenId="59"
-            holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="農ヘル食堂〜オニオンリング〜" mogitenFontSize="24px" organizationName="つくば学生農業ヘルパー"
-            mogitenIntroduction="つくば市の農園で収穫された新玉ねぎを使用しています。凝縮された甘さや旨みにきっとあなたも驚くはず！" mogitenId="49"
-            holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="つくぶい！" mogitenFontSize="24px" organizationName="つくぶい！"
-            mogitenIntroduction="大学公認のVTuberサークルです！　今春デビューした3人の初グッズを販売！　人気アイテムの再販も。" mogitenId="11"
-            holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="ON!ぎゅっと肉巻き" mogitenFontSize="24px" organizationName="電気通信研究会"
-            mogitenIntroduction="福岡県産米に、秘伝のタレに漬けた豚ロース肉を3重に手巻き。300℃のオーブンでジューシーに焼き上げました！" mogitenId="29"
+        <item  mogitenName="しらたまだけじゃダメですか？🥺" mogitenFontSize="16px" organizationName="障害科学類1年"
+            mogitenIntroduction="障害科学類1年で色とりどりの白玉作りました！限定メニューもあるかも？！白玉だけじゃダメですか？" mogitenId="31"
             holdingTime_1="両日" holdingTime_2="" />
         <item  mogitenName="グンマー帝国大使館" mogitenFontSize="24px" organizationName="群馬県人会"
-            mogitenIntroduction="【新感覚】グンマには、焼きまんじゅうがある。" mogitenId="53"
+            mogitenIntroduction="グンマには、焼きまんじゅうがある。" mogitenId="32"
+            holdingTime_1="両日" holdingTime_2="" />
+        <item  mogitenName="CREPE LAB" mogitenFontSize="24px" organizationName="応用理工学類 1年"
+            mogitenIntroduction="美味しさを理論的に追求しました。甘さこそパワー。" mogitenId="33"
+            holdingTime_1="両日" holdingTime_2="" />
+        <item  mogitenName="チュロっとひと息" mogitenFontSize="24px" organizationName="看護1年全クラス"
+            mogitenIntroduction="看護学生がドリンクカップに名前やメッセージを書きます！💕ぜひ来てください🙌🏻" mogitenId="34"
+            holdingTime_1="両日" holdingTime_2="" />
+        <item  mogitenName="やきそBAR" mogitenFontSize="24px" organizationName="総合学域群第1類3.4クラス"
+            mogitenIntroduction="ちょっとおしゃれな「やきそBAR」。自慢の熱々焼きそばと冷たいドリンクで落ち着いたひと時を。" mogitenId="35"
+            holdingTime_1="両日" holdingTime_2="" />
+        <item  mogitenName="スモア内科" mogitenFontSize="24px" organizationName="医学類1年1,5クラス"
+            mogitenIntroduction="焦がしたてのマシュマロとチョコのスモアを'処方'します。やど祭限定、あま〜い診療所です！" mogitenId="36"
             holdingTime_1="両日" holdingTime_2="" />
         <item  mogitenName="珈琲・俺" mogitenFontSize="24px" organizationName="珈琲・俺"
-            mogitenIntroduction="雙峰祭グランプリで受賞した珈琲・俺がやど祭にやってくる！珈琲をまだ知らないあなたに、最高の一杯を。" mogitenId="23"
+            mogitenIntroduction="昨年雙峰祭グランプリを受賞した珈琲・俺が出店！25年間紡がれてきたこだわりの珈琲をお楽しみください" mogitenId="37"
             holdingTime_1="本祭のみ" holdingTime_2="" />
-        <item  mogitenName="寄ってらっチャイ見てラッシー" mogitenFontSize="16px" organizationName="インドワークキャンプ団体namaste!"
-            mogitenIntroduction="みなさん、なますて〜！私たちのチャイとラッシー飲んで、平砂でインドの風感じましょう(^_-)-☆" mogitenId="27"
+        <item  mogitenName="割烹肉巻き" mogitenFontSize="24px" organizationName="医学焚き火同好会"
+            mogitenIntroduction="ジューシー肉でギュッと包んだ！熱々ホクホク、一口で幸せになれる肉巻きおにぎり！" mogitenId="38"
             holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="店名思いつかなくて顔ない" mogitenFontSize="24px" organizationName="1年AC推薦有志"
-            mogitenIntroduction="顔ないーー合わせる顔がないに由来するネットスラング。顔はなくとも美味しいメロンパンアイスはあります。" mogitenId="32"
+        <item  mogitenName="Imagine the Pepper." mogitenFontSize="16px" organizationName="情報科学類1-3,4"
+            mogitenIntroduction="ペッパーランチを販売します！情報科学類の愛称「coins」にちなんで、コインを用いた値下げ企画を行います！当たれば八卦、当たらぬも八卦！" mogitenId="39"
             holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="雀拳餃子" mogitenFontSize="24px" organizationName="TMP（つくばミュージックプロジェクト）"
-            mogitenIntroduction="美味しい餃子あります。じゃんけんに勝つと2個増量できます。僥倖っ…！なんという僥倖っ…！" mogitenId="38"
-            holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="喫茶　メイドの手土産" mogitenFontSize="24px" organizationName="現代視覚文化研究会　喫茶班"
-            mogitenIntroduction="出張版メイドの土産、メイドの手土産は今年もご主人様とお嬢様のお帰りをお待ちしております！" mogitenId="58"
-            holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="iGEM Gyukushi" mogitenFontSize="24px" organizationName="iGEM TSUKUBA"
-            mogitenIntroduction="iGEM TSUKUBAは｢iGEM｣という合成生物学の世界大会に出場する研究サークルです！！" mogitenId="14"
-            holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="広島県人会お好み焼き" mogitenFontSize="24px" organizationName="広島県人会"
-            mogitenIntroduction="広島にゆかりのある筑波大生により構成された、地元愛で繋がる人の和として約50年間の歴史をもつ団体です！" mogitenId="1"
-            holdingTime_1="両日" holdingTime_2="" />
-        <item  mogitenName="蓮・SEN" mogitenFontSize="24px" organizationName="筑波大学ベトナム留学生会"
-            mogitenIntroduction="焼きフォーの香りを味わおう！ピーチティーと蓮茶もあります！" mogitenId="24"
+        <item  mogitenName="わらび餅ドリンク〜飲むアメーバ〜" mogitenFontSize="16px" organizationName="生物学類1年1、2クラス"
+            mogitenIntroduction="その食感はまるでアメーバ！？わらび餅のぷにぷにとドリンクの甘さが詰まった生物学類１年特製の一品です！" mogitenId="40"
             holdingTime_1="本祭のみ" holdingTime_2="" />
+        <item  mogitenName="ハリーポッてーと賢者の石" mogitenFontSize="24px" organizationName="総合学域群3類1年4,6クラス"
+            mogitenIntroduction="総合3類4,6クラス合同である「ハリーポッてーと賢者の石」からは、トルネードポテトと、飲み物を販売します！" mogitenId="41"
+            holdingTime_1="両日" holdingTime_2="" />
+        <item  mogitenName="チュ。ーロスの販売についてー" mogitenFontSize="16px" organizationName="社会学類1-2.3"
+            mogitenIntroduction="神童・社会学類はチュロスへの情熱は捨てられずにいる。 我々が研究していたのはチュロスに関する衝撃的な「ある仮説」だった――。" mogitenId="42"
+            holdingTime_1="両日" holdingTime_2="" />
+        <item  mogitenName="ふぉヤング" mogitenFontSize="24px" organizationName="硬式テニス愛好会Forest"
+            mogitenIntroduction="Forestのふぉヤング！特製ソースの手作りやきそば！あなたはパン派？そのまま派？" mogitenId="43"
+            holdingTime_1="両日" holdingTime_2="" />
+        <item  mogitenName="ハンバーグくじ" mogitenFontSize="24px" organizationName="TMP(つくばミュージックプロジェクト)"
+            mogitenIntroduction="ルールは超簡単！1回300円でくじを引き、くじに書かれた番号の数だけハンバーグをゲットっっ！！" mogitenId="44"
+            holdingTime_1="両日" holdingTime_2="" />
+        <item  mogitenName="一問一食【改訂版】" mogitenFontSize="24px" organizationName="比較文化学類"
+            mogitenIntroduction="Q.江戸幕府が開国と同時に求めたものは？ A. 比文のドリンクとパンケーキ(諸説あり)" mogitenId="45"
+            holdingTime_1="本祭のみ" holdingTime_2="" />
+        <item  mogitenName="つくポテ" mogitenFontSize="24px" organizationName="総合第1類5クラス"
+            mogitenIntroduction="落〇カレーみたいに強めの個性ないけど、フライドポテト美味しいから許してね♥" mogitenId="46"
+            holdingTime_1="両日" holdingTime_2="" />
+        <item  mogitenName="Kure-Crepe[くれくれ]" mogitenFontSize="24px" organizationName="Kure- cure"
+            mogitenIntroduction="去年売り上げ1位のクレープ。バター香る生地。極上のクリーム。宝石のようなフルーツ。あの味をもう一度。" mogitenId="47"
+            holdingTime_1="両日" holdingTime_2="" />
+        <item  mogitenName="トルネ〜〜〜ドポテト 大豆ミートからあげ" mogitenFontSize="16px" organizationName="総合学域群第2類 1年7,8クラス"
+            mogitenIntroduction="サクサク絶品トルネードポテト販売中" mogitenId="48"
+            holdingTime_1="本祭のみ" holdingTime_2="" />
+        <item  mogitenName="俺の生物る道" mogitenFontSize="24px" organizationName="生物学類2年"
+            mogitenIntroduction="やど祭初登場の本格二郎系ラーメン！自家製チャーシューでボリューム満点！ぜひ一度ご賞味ください！" mogitenId="49"
+            holdingTime_1="両日" holdingTime_2="" />
+        <item  mogitenName="壱組かすてら堂" mogitenFontSize="24px" organizationName="総合学域群第1類1クラス"
+            mogitenIntroduction="味はお楽しみ！ふわふわのベビーカステラと、暑さを吹っ飛ばす爽やかなラムネはいかがですか？" mogitenId="50"
+            holdingTime_1="本祭のみ" holdingTime_2="" />
+        <item  mogitenName="Re 海の家" mogitenFontSize="24px" organizationName="海洋研究会"
+            mogitenIntroduction="雙峰祭の人気屋台が帰って来た!? 海好きな私たちが作る絶品シーフード焼きそばをお試しあれ!!" mogitenId="51"
+            holdingTime_1="両日" holdingTime_2="" />
+        <item  mogitenName="タコピヨ" mogitenFontSize="24px" organizationName="知識情報・図書館学類１年１クラス"
+            mogitenIntroduction="うちのたこ焼きは、外カリ！中トロ！レインボーに光る秘伝の特製ソースをかけてたべるピヨ！" mogitenId="52"
+            holdingTime_1="両日" holdingTime_2="" />
+        <item  mogitenName="あつまれスモアの森" mogitenFontSize="24px" organizationName="生物資源学類1年3.4クラス"
+            mogitenIntroduction="とろ～りマシュマロとチョコをクラッカーではさんだ、とっても甘くておいしいおやつ！" mogitenId="53"
+            holdingTime_1="両日" holdingTime_2="" />
+        <item  mogitenName="焼きそば処 こくさい" mogitenFontSize="24px" organizationName="国際総合学類1年"
+            mogitenIntroduction="祭りの定番、焼きそば！国際の1年が、みなさんに焼きそばをふるまいます。つめた～いドリンクもあります！" mogitenId="54"
+            holdingTime_1="両日" holdingTime_2="" />
+        <item  mogitenName="くものうえのわたがし" mogitenFontSize="24px" organizationName="総合学域群６クラス"
+            mogitenIntroduction="シュワシュワ、ふわふわ！新食感なワタアメイジング！" mogitenId="55"
+            holdingTime_1="両日" holdingTime_2="" />
+        <item  mogitenName="アサイーボウル屋さん" mogitenFontSize="24px" organizationName="体育専門学群1-4"
+            mogitenIntroduction="SNSで話題のアサイーボウル！TikTokで数十万再生超えのアサイーボウル店からメニューを伝授！" mogitenId="56"
+            holdingTime_1="両日" holdingTime_2="" />
+        <item  mogitenName="フランクフルト工シス店" mogitenFontSize="24px" organizationName="工学システム学類1年1.2クラス"
+            mogitenIntroduction="工シス1,2クラがフランクフルトを販売するぜ!ドリンクあるからぜひ来てくれよな!" mogitenId="57"
+            holdingTime_1="本祭のみ" holdingTime_2="" />
+        <item  mogitenName="チョコバナナよりもあ・な・た" mogitenFontSize="16px" organizationName="心理学類1年全クラス"
+            mogitenIntroduction="ルビィちゃ〜ん！「はーい！」何が好き〜？「チョコバナナ！よりもレモネード！よりもあ・な・た♡」" mogitenId="58"
+            holdingTime_1="両日" holdingTime_2="" />
+        <item  mogitenName="釈迦釈迦ポテト" mogitenFontSize="24px" organizationName="人文1年1.2クラス"
+            mogitenIntroduction="黄金に輝くポテトはいかが？味付けは4種類から選べます！シャカシャカ振ってお祭り気分をご堪能あれ！！" mogitenId="59"
+            holdingTime_1="両日" holdingTime_2="" />
+        <item  mogitenName="たこチュ！" mogitenFontSize="24px" organizationName="総合第2類4,5クラス"
+            mogitenIntroduction="トッピング自由！揚げたてチュロスです♪何が出る？ドキドキたこ焼きも！最後に一言、たこチュしようぜ！！" mogitenId="60"
+            holdingTime_1="両日" holdingTime_2="" />
+        <item  mogitenName="ヤキヤキ★ナイトⅡ" mogitenFontSize="24px" organizationName="生物資源学類1-1・2"
+            mogitenIntroduction="やきそばが　あらわれた！ こうばしい　ソースのかおりで おなかが　うずきだした！" mogitenId="61"
+            holdingTime_1="両日" holdingTime_2="" />
+        <item  mogitenName="クレープ＆スムージー　クレイジー" mogitenFontSize="16px" organizationName="社会工学類1−2,4"
+            mogitenIntroduction="どちゃくそ営利目的なので他の店舗より安い自信があります!!ぜひ両方とも買って下さい♥" mogitenId="62"
+            holdingTime_1="両日" holdingTime_2="" />
     </div>
 
 </template>
