@@ -36,7 +36,6 @@
     <div id="trafficRule">
         <p class="trafficTitle">当日の交通規制について</p>
         <img class="trafficImg" src="~/assets/img/top/trafficRole.png">
-        <p class="photoattention">プライバシー保護の観点から、人物が写る写真を撮影される際は、必ずご本人の許可をお取りください。</p>
     </div>
 </template>
 
