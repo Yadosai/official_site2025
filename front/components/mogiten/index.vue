@@ -1,6 +1,7 @@
 <template>
     <div id="mogitenEyeCatch">
         <p>模擬店情報</p>
+        <p class="mapintroduction">（マップ上の番号をタップすると簡易的な模擬店情報がすぐに確認できます）</p>
     </div>
     <div id="mogitenMapContainer">
         <mogitenOverlay class="map-overlay" />
@@ -52,6 +53,15 @@ export default {
     margin: 0;
 }
 
+#mogitenEyeCatch .mapintroduction {
+    font-family: map-get($font-styles, family);
+    font-style: map-get($font-styles, style);
+    font-weight: map-get($font-styles, weight);
+    line-height: map-get($font-styles, line-height);
+    font-size: 14px;
+    margin: 0;
+}
+
 #mogitenMapContainer {
     display: flex;
     padding: 25px 0px;
@@ -84,6 +94,10 @@ export default {
 @media (min-width: 950px) {
     #mogitenEyeCatch p {
         font-size: 40px;
+    }
+
+    #mogitenEyeCatch .mapintroduction {
+        font-size: 15px;
     }
 
     #mogitenMapContainer img,
