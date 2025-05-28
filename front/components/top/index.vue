@@ -11,7 +11,7 @@
     <div id="updateInfo">
         <p class="updateInfoTitle">更新情報</p>
         <div class="updateInfoContent">
-            <updataInfoItem updateDate="5/20" contentText="協賛団体情報を今年度の情報に更新しました！" />
+            <updataInfoItem updateDate="" contentText="プライバシー保護の観点から、人物が写る写真を撮影される際は、必ずご本人の許可をお取りください。" />
             <updataInfoItem updateDate="5/25" contentText="企画情報を公開しました！" />
             <updataInfoItem updateDate="5/28" contentText="模擬店情報を公開しました！" />
         </div>
