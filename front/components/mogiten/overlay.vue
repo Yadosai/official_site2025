@@ -50,12 +50,14 @@
           <button class="absolute top-1 right-1 text-xs" @click="popup.visible = false">×</button>
           <h3 class="font-semibold mb-2">No. {{ popup.cell.label }}</h3>
           <template v-if="popup.shop">
+            <p class="text-sm mb-1"><strong>模擬店番号：</strong> {{ popup.shop.mogitenId }}</p>
             <p class="text-sm mb-1"><strong>団体:</strong> {{ popup.shop.organizationName }}</p>
             <p class="text-sm mb-1"><strong>模擬店名:</strong> {{ popup.shop.mogitenName }}</p>
             <p class="text-sm mb-3"><strong>出店日:</strong> {{ popup.shop.holdingTime_1 }} {{ popup.shop.holdingTime_2 }}</p>
           </template>
           <template v-if="popup.secondShop">
             <div class="border-t pt-3">
+              <p class="text-sm mb-1"><strong>模擬店番号：</strong> {{ popup.secondShop.mogitenId }}</p>
               <p class="text-sm mb-1"><strong>団体:</strong> {{ popup.secondShop.organizationName }}</p>
               <p class="text-sm mb-1"><strong>模擬店名:</strong> {{ popup.secondShop.mogitenName }}</p>
               <p class="text-sm"><strong>出店日:</strong> {{ popup.secondShop.holdingTime_1 }} {{ popup.secondShop.holdingTime_2 }}</p>
@@ -256,7 +258,7 @@ function positionPopup() {
   <style scoped lang="scss">  
   /***** 区画 *****/
   .stall-shape {
-    fill: rgba($primary-color, 0.55);        // メインカラーを α で
+    fill: transparent;        // メインカラーを α で
     stroke: $tertiary-color;
     stroke-width: 1;
     cursor: pointer;
@@ -272,6 +274,7 @@ function positionPopup() {
     font-weight: map-get($font-styles, weight);
     font-size: 14px;
     user-select: none;
+    fill:transparent;
   }
   
   /***** ポップアップカード *****/
