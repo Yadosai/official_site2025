@@ -5,27 +5,27 @@
 
   <div class="perfoermerListContainer">
     <item performerName="筑波大学アイドル研究会Bombs!" performerNameFontsize="20"
-      :kikakuList="[{ name: 'やどかりダンス (5月31日 15:20~)', url: '/kikaku#5' }]"
+      :kikakuList="[{ name: 'やどかりダンス (6月1日 15:20~)', url: '/kikaku#5' }]"
       instaID="@bombs_tkb"
       instaIDUrl="http://instagram.com/bombs_tkb" twitterID="@bombs_tkb" twitterIDUrl="http://twitter.com/bombs_tkb" />
     <item performerName="ひらがなつくば" performerNameFontsize="20"
-      :kikakuList="[{ name: 'やどかりダンス (5月31日 13:15~)', url: 'https://yadokarisai.com/kikaku' }]" :mogitenList="[]"
+      :kikakuList="[{ name: 'やどかりダンス (6月1日 13:15~)', url: 'https://yadokarisai.com/kikaku' }]" :mogitenList="[]"
       instaID="@hiraganatsukuba" instaIDUrl="http://instagram.com/hiraganatsukuba" twitterID="@hiraganatsukuku"
       twitterIDUrl="http://twitter.com/hiraganatsukuku" />
     <item performerName="筑波大学Kpopコピーダンスサークル コグマ" performerNameFontsize="20"
-      :kikakuList="[{ name: 'やどかりダンス(5月31日 14:55~)', url: 'https://yadokarisai.com/kikaku' }]" :mogitenList="[]"
+      :kikakuList="[{ name: 'やどかりダンス(6月1日 14:55~)', url: 'https://yadokarisai.com/kikaku' }]" :mogitenList="[]"
       instaID="@koguma_guma_" instaIDUrl="http://instagram.com/koguma_guma_" twitterID="@kogumaguma_kpop"
       twitterIDUrl="http://twitter.com/kogumaguma_kpop" />
     <item performerName="Realjam" performerNameFontsize="20"
-      :kikakuList="[{ name: 'やどかりダンス(5月31日 12:50~)', url: 'https://yadokarisai.com/kikaku' }]" :mogitenList="[]"
+      :kikakuList="[{ name: 'やどかりダンス(6月1日 12:50~)', url: 'https://yadokarisai.com/kikaku' }]" :mogitenList="[]"
       instaID="@realjam.tkb" instaIDUrl="http://instagram.com/realjam.tkb" twitterID="@DANCE_REALJAM"
       twitterIDUrl="http://twitter.com/DANCE_REALJAM" />
     <item performerName="purplume" performerNameFontsize="20"
-      :kikakuList="[{ name: 'やどかりダンス(5月31日 13:40~)', url: 'https://yadokarisai.com/kikaku' }]" :mogitenList="[]"
+      :kikakuList="[{ name: 'やどかりダンス(6月1日 13:40~)', url: 'https://yadokarisai.com/kikaku' }]" :mogitenList="[]"
       instaID="@" instaIDUrl="" twitterID="@"
       twitterIDUrl="" />
     <item performerName="筑波大学ダンス部" performerNameFontsize="20"
-      :kikakuList="[{ name: 'やどかりダンス(5月31日 14:30~)', url: 'https://yadokarisai.com/kikaku' }]" :mogitenList="[]"
+      :kikakuList="[{ name: 'やどかりダンス(6月1日 14:30~)', url: 'https://yadokarisai.com/kikaku' }]" :mogitenList="[]"
       instaID="@" instaIDUrl="" twitterID="@"
       twitterIDUrl="" />
     <item performerName="アカペラサークルDoo-Wop" performerNameFontsize="20"
@@ -33,7 +33,7 @@
       instaID="@doowopshinkan2024" instaIDUrl="http://instagram.com/doowopshinkan2024" twitterID="@DooWop_tsukuba"
       twitterIDUrl="http://twitter.com/DooWop_tsukuba" />
     <item performerName="弾き語りサークルアンプラグト" performerNameFontsize="20"
-      :kikakuList="[{ name: 'ミニステージ(5月31日 13:30~)', url: 'https://yadokarisai.com/kikaku' }]" :mogitenList="[]"
+      :kikakuList="[{ name: 'ミニステージ(6月1日 13:30~)', url: 'https://yadokarisai.com/kikaku' }]" :mogitenList="[]"
       instaID="@tkb_unplugged" instaIDUrl="http://instagram.com/tkb_unplugged" twitterID="@tkb_unplugged"
       twitterIDUrl="http://twitter.com/tkb_unplugged" />
     <item performerName="現代視覚文化研究会" performerNameFontsize="20"
@@ -41,7 +41,7 @@
       instaID="@" instaIDUrl="http://instagram.com/" twitterID="@tsukuba_gsk"
       twitterIDUrl="http://twitter.com/tsukuba_gsk" />
     <item performerName="フォルクローレ愛好会" performerNameFontsize="20"
-      :kikakuList="[{ name: 'ミニステージ(5月31日 13:30~)', url: 'https://yadokarisai.com/kikaku' }]" :mogitenList="[]"
+      :kikakuList="[{ name: 'ミニステージ(6月1日 13:30~)', url: 'https://yadokarisai.com/kikaku' }]" :mogitenList="[]"
       instaID="@folklore_tkb" instaIDUrl="http://instagram.com/folklore_tkb" twitterID="@Folklore_tkb"
       twitterIDUrl="http://twitter.com/Folklore_tkb" />
     <item performerName="つくばフォーク村" performerNameFontsize="20"
@@ -76,26 +76,26 @@
       :kikakuList="[{ name: '火文字前パフォ(5月30日 20:40~)', url: 'https://yadokarisai.com/kikaku' }]" :mogitenList="[]"
       instaID="@" instaIDUrl="" twitterID="@" twitterIDUrl="" />
     <item performerName="筑波大学花火研究会" performerNameFontsize="20"
-      :kikakuList="[{ name: '花火(5月31日 20:50~)', url: 'https://yadokarisai.com/kikaku' }]" :mogitenList="[]"
+      :kikakuList="[{ name: '花火(6月1日 20:50~)', url: 'https://yadokarisai.com/kikaku' }]" :mogitenList="[]"
       instaID="@tsukuba.hanabi" instaIDUrl="http://instagram.com/tsukuba.hanabi" twitterID="@HanabiTsukuba"
       twitterIDUrl="http://twitter.com/HanabiTsukuba" />
     <item performerName="Moss Phlox" performerNameFontsize="20"
-      :kikakuList="[{ name: 'ゆかこん(5月31日 18:29~)', url: 'https://yadokarisai.com/kikaku' }]" :mogitenList="[]"
+      :kikakuList="[{ name: 'ゆかこん(6月1日 18:29~)', url: 'https://yadokarisai.com/kikaku' }]" :mogitenList="[]"
        />    
     <item performerName="Scramble" performerNameFontsize="20"
-      :kikakuList="[{ name: 'ゆかこん(5月31日 18:38~)', url: 'https://yadokarisai.com/kikaku' }]" :mogitenList="[]"
+      :kikakuList="[{ name: 'ゆかこん(6月1日 18:38~)', url: 'https://yadokarisai.com/kikaku' }]" :mogitenList="[]"
       instaID="@" instaIDUrl="" twitterID="@"
       twitterIDUrl="" />
     <item performerName="超！FRUIT♡SCREAM" performerNameFontsize="20"
-      :kikakuList="[{ name: 'ゆかこん(5月31日 18:56~)', url: 'https://yadokarisai.com/kikaku' }]" :mogitenList="[]"
+      :kikakuList="[{ name: 'ゆかこん(6月1日 18:56~)', url: 'https://yadokarisai.com/kikaku' }]" :mogitenList="[]"
       instaID="@Fruit_i_scream" instaIDUrl="http://instagram.com/" twitterID="@Fruit_i_scream"
       twitterIDUrl="https://x.com/fruit_i_scream?s=21&t=fESpaCC1G_eaYRHlP6HXcw" />
     <item performerName="つく娘" performerNameFontsize="20"
-      :kikakuList="[{ name: 'ゆかこん(5月31日 19:05~)', url: 'https://yadokarisai.com/kikaku' }]" :mogitenList="[]"
+      :kikakuList="[{ name: 'ゆかこん(6月1日 19:05~)', url: 'https://yadokarisai.com/kikaku' }]" :mogitenList="[]"
       instaID="@" instaIDUrl="" twitterID="@"
       twitterIDUrl="" />
     <item performerName="筑波大学ジャグリングサークル" performerNameFontsize="20"
-      :kikakuList="[{ name: 'ストパフォ(5月31日 15:30~)', url: 'https://yadokarisai.com/kikaku' }]" :mogitenList="[]"
+      :kikakuList="[{ name: 'ストパフォ(6月1日 15:30~)', url: 'https://yadokarisai.com/kikaku' }]" :mogitenList="[]"
       instaID="@" instaIDUrl="" twitterID="@"
       twitterIDUrl="" />
   </div>
