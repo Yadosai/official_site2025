@@ -4,7 +4,7 @@
         <div class="text-overlay">
             <p class="eyeCatchTitle">やどかり祭</p>
             <p class="eyeCatchSubtitle">～<ruby>祭開始<rt>再スタート</rt></ruby>～</p>
-            <p class="eyeCatchDate">5/30,5/31</p>
+            <p class="eyeCatchDate">5/30,6/1</p>
         </div>
         
     </div>
@@ -12,8 +12,7 @@
         <p class="updateInfoTitle">お知らせ</p>
         <div class="updateInfoContent">
             <updataInfoItem updateDate="" contentText="無許可での写真・動画撮影はご遠慮ください。撮影の際は、必ず被写体ご本人の許可を得てください。" />
-            <updataInfoItem updateDate="" contentText=""本祭（5月31日）につきましては、天候に恵まれない場合、6月1日への延期とさせていただきます。なお、実施または中止の判断は当日午前7時頃を予定しております。ご迷惑をおかけいたしますが、何卒ご理解のほどよろしくお願い申し上げます。 />
-            <updataInfoItem updateDate="5/28" contentText="模擬店情報を公開しました！" />
+            <updataInfoItem updateDate="5/31" contentText="本祭は5/31が雨天予報のために6/1に延期となりました。ご迷惑をおかけいたしますが、何卒ご理解のほどよろしくお願い申し上げます。" />
         </div>
     </div>
     <div id="LinkButtons">
