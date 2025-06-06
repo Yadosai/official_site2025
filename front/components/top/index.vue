@@ -9,10 +9,9 @@
         
     </div>
     <div id="updateInfo">
-        <p class="updateInfoTitle">お知らせ</p>
+        <p class="updateInfoTitle">ご報告</p>
         <div class="updateInfoContent">
-            <updataInfoItem updateDate="" contentText="無許可での写真・動画撮影はご遠慮ください。撮影の際は、必ず被写体ご本人の許可を得てください。" />
-            <updataInfoItem updateDate="5/30" contentText="本祭は5/31が雨天予報のために6/1に延期となりました。ご迷惑をおかけいたしますが、何卒ご理解のほどよろしくお願い申し上げます。" />
+            <updataInfoItem updateDate="" contentText="このたび、5月30日(金)の宿舎祭前夜祭にて、社会工学類1年2・4クラスの模擬店「クレープ&スムージークレイジー」において、ブラスチック片が混入したスムージー約8食のうち、4食が提供されていたことが判明しました。20時頃に委員が状況を確認し、ただちに販売の中止を命じました。該当商品はすべて廃棄するよう指示し、出店団体には厳重注意を行いました。6月1日(日)の本祭において同団体からはスムージーの提供は行いませんでした。また、提供されたスムージーのうち2食は、すでに委員会で回収済みです。現在のところ健康被害の報告はございませんが、体調に不安がある方はyadosai.tkb@gmail.com までご連絡ください。各種SNSのDMでも対応しております。" />
         </div>
     </div>
     <div id="LinkButtons">
